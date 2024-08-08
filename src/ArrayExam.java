@@ -13,7 +13,7 @@ public class ArrayExam {
         }
         char[] c = {'A', 'P', 'P', 'L', 'E'};
 
-
+//베얄 초기화와 선언
 
         for (int i = 0; i < c.length; i++) {
             System.out.print((char) (c[i] + 32));
