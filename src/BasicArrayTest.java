@@ -18,7 +18,7 @@ public class BasicArrayTest {
         b[0].page = 500;
         b[0].isbn = "11889900";
 
-        System.out.println(b[0].title + "\t" + b[0].price + "\t" + b[0].company + "\t" + b[0].author + "\t" + b[0].page + "\t" + b[0].isbn);
+       // System.out.println(b[0].title + "\t" + b[0].price + "\t" + b[0].company + "\t" + b[0].author + "\t" + b[0].page + "\t" + b[0].isbn);
 
         b[1] = new Book();
         b[1].title = "오라클";
@@ -28,7 +28,7 @@ public class BasicArrayTest {
         b[1].page = 500;
         b[1].isbn = "11889900";
 
-        System.out.println(b[1].title + "\t" + b[1].price + "\t" + b[1].company + "\t" + b[1].author + "\t" + b[1].page + "\t" + b[1].isbn);
+        //System.out.println(b[1].title + "\t" + b[1].price + "\t" + b[1].company + "\t" + b[1].author + "\t" + b[1].page + "\t" + b[1].isbn);
 
         b[2] = new Book();
         b[2].title = "인공지능";
