@@ -13,7 +13,7 @@ public class MethodMakeTest {
     public static int add(int a, int b) {
         int sum = a + b;
 
-        return sum;
+        return sum;  //add 메서드에 반환
 
     }
 
